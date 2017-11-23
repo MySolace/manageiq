@@ -220,7 +220,7 @@ unless ENV["APPLIANCE"]
     gem "sqlite3",                      :require => false
     gem "timecop",          "~>0.7.3",  :require => false
     gem "vcr",              "~>3.0.2",  :require => false
-    gem "webmock",          "~>2.3.1",  :require => false
+    gem "webmock",          "~> 3.1.1",  :require => false
   end
 
   group :development, :test do
