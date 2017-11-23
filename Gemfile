@@ -216,7 +216,7 @@ unless ENV["APPLIANCE"]
     gem "brakeman",         "~>3.3",    :require => false
     gem "capybara",         "~>2.16.1",  :require => false
     gem "coveralls",                    :require => false
-    gem "factory_girl",     "~>4.5.0",  :require => false
+    gem "factory_girl",     "~>4.9.0",  :require => false
     gem "sqlite3",                      :require => false
     gem "timecop",          "~>0.7.3",  :require => false
     gem "vcr",              "~>3.0.2",  :require => false
