@@ -213,7 +213,7 @@ unless ENV["APPLIANCE"]
   end
 
   group :test do
-    gem "brakeman",         "~>3.3",    :require => false
+    gem "brakeman",         "~>4.0",    :require => false
     gem "capybara",         "~>2.16.1",  :require => false
     gem "coveralls",                    :require => false
     gem "factory_girl",     "~>4.5.0",  :require => false
