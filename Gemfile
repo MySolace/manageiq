@@ -57,7 +57,7 @@ gem "rails-i18n",                     "~>5.x"
 gem "rake",                           ">=11.0",        :require => false
 gem "rest-client",                    "~>2.0.0",       :require => false
 gem "ripper_ruby_parser",             "~>1.1.2",       :require => false
-gem "ruby-progressbar",               "~>1.7.0",       :require => false
+gem "ruby-progressbar",               "~> 1.9.0",       :require => false
 gem "rubyzip",                        "~>1.2.1",       :require => false
 gem "rugged",                         "~>0.25.0",      :require => false
 gem "simple-rss",                     "~>1.3.1",       :require => false
